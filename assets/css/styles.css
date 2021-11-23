@@ -1,0 +1,37 @@
+#box-2, #landing {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../assets/img/road.jpg);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+#land-bg {
+  margin: auto;
+  max-width: 80%;
+  max-height: 60%;
+}
+
+#login-body {
+  background-color: #F1F7FC;
+}
+
+#login-head {
+  color: #F4476B;
+  margin-bottom: 15%;
+}
+
+#pink-hr {
+  color: #F4476B;
+}
+
+.register-body {
+  background-color: #F1F7FC;
+}
+
+body {
+  background-color: rgb(253,254,255);
+}
+

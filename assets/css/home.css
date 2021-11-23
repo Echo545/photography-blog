@@ -1,0 +1,58 @@
+.post-sample {
+  margin-top: 4%;
+  margin-bottom: 2%;
+}
+
+.post-sample-author {
+  color: rgb(86,86,86);
+}
+
+.post-sample: hover {
+  background-color: rgb(163,163,163);
+  color: red;
+}
+
+#recent-posts {
+  margin-bottom: 20px;
+}
+
+#recent-posts {
+  align-content: center;
+  margin-top: 10%;
+  margin-bottom: 15%;
+}
+
+.my-h2 {
+  text-align: center;
+}
+
+.my-hr {
+  max-width: 85%;
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0,0,0,0.55), rgba(0, 0, 0, 0));
+}
+
+.post-sample-img {
+  top: 50%;
+  position: relative;
+  /*transform: translateY(10%);*/
+}
+
+.post-sample-link {
+  color: black;
+}
+
+.post-sample-link:hover {
+  color: #565656;
+  text-decoration: none;
+  /*background-color: red !important;*/
+  /*background-image: linear-gradient(120deg, #00e4d0, #5983e8);*/
+  /*border: solid 4px;*/
+}
+
+#new-post-body {
+  width: 100%;
+  height: 9rem;
+}
+

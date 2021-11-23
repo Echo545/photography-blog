@@ -1,0 +1,71 @@
+.float {
+  position: fixed;
+  width: 65px;
+  height: 65px;
+  bottom: 45px;
+  right: 45px;
+  background-color: #21BAE6;
+  color: #FFF;
+  font-size: 35px;
+  border-radius: 55px;
+  text-align: center;
+  box-shadow: 4px 4px 5px #999;
+}
+
+#delete-post-button {
+  width: 60px;
+  height: 60px;
+  background-color: #e63921;
+  font-size: 32px;
+  border-radius: 50px;
+  box-shadow: 3px 3px 3px #999;
+}
+
+#edit-post-button {
+  width: 60px;
+  height: 60px;
+  background-color: #21e6cc;
+  font-size: 32px;
+  border-radius: 50px;
+  box-shadow: 3px 3px 3px #999;
+  bottom: 140px;
+
+}
+
+#search-button {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 130px;
+  right: 45px;
+  background-color: #ffc700;
+  color: #FFF;
+  font-size: 30px;
+  border-radius: 50px;
+  text-align: center;
+  box-shadow: 3px 3px 4px #999;
+}
+
+#profile-search-button {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 45px;
+  right: 45px;
+  background-color: #ffc700;
+  color: #FFF;
+  font-size: 30px;
+  border-radius: 50px;
+  text-align: center;
+  box-shadow: 3px 3px 4px #999;
+}
+
+.my-float {
+  margin-top: 15px;
+}
+
+.my-float: hover {
+  box-shadow: 5px 5px 8px 2px #888888;
+  font-size: 45px;
+}
+
